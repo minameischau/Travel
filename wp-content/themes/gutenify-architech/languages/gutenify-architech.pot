@@ -1,0 +1,469 @@
+# Copyright (c) 2023 CodeYatri. All Rights Reserved.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gutenify Architech 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/gutenify-architech\n"
+"Last-Translator: inf@codeyatri.com\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-21T03:54:59+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: gutenify-architech\n"
+
+#. Theme Name of the theme
+msgid "Gutenify Architech"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://gutenify.com/themes/gutenify-architech"
+msgstr ""
+
+#. Description of the theme
+msgid "Gutenify Architech is modern block-based theme where you can build your own unique looking website by using WordPress Blocks Editor. Gutenify Architech is a multipurpose block based free theme, the theme is built in accordance of Full Site Editing features introduced in WordPress 5.9, which means that all the aspects including colors, typography, and the layout of every single page on your site can be customized to suit your need.The true efficiency of Gutenify Architech Theme lies in its customizability with combination of Gutenify Plugin. With Gutenify Plugin you can create different customized template, you can also use its in-built template kits and then further customize them according to your needs. Furthermore, using different blocks in combination of Gutenify Plugin’s solid additional blocks, each website will garner an exhibit look. With strong typography, and simple design, we want to achieve unique look for every website. Gutenify Plugin offers a wide variety of flexible and easy to use blocks which will make your website in combination with truly unique spectacle. You can create. A single-page website, a blog, a Architech website, a portfolio, a construction site, or an education site, Gutenify Corporate with Gutenify Plugin will help you create something unique which you can truly call yours.Official Support Forum: https://gutenify.com/contact/"
+msgstr ""
+
+#. Author of the theme
+msgid "Codeyatri"
+msgstr ""
+
+#. Author URI of the theme
+#: patterns/footer-default.php:127
+msgid "https://gutenify.com"
+msgstr ""
+
+#: patterns/feature-banner-main.php
+msgctxt "Pattern title"
+msgid "Feature Banner Main"
+msgstr ""
+
+#: patterns/feature-banner-main.php:14
+msgid "Architecture &amp; Design Studio"
+msgstr ""
+
+#: patterns/feature-banner-main.php:18
+msgid "Create"
+msgstr ""
+
+#: patterns/feature-banner-main.php:18
+msgid "."
+msgstr ""
+
+#: patterns/feature-banner-main.php:18
+msgid "Design"
+msgstr ""
+
+#: patterns/feature-banner-main.php:18
+msgid "Inspire"
+msgstr ""
+
+#: patterns/feature-banner-main.php:23
+msgid "We are an architecture firm helping growing organizations"
+msgstr ""
+
+#: patterns/feature-banner-main.php:30
+msgid "Our Services"
+msgstr ""
+
+#: patterns/feature-banner-main.php:34
+msgid "View Project"
+msgstr ""
+
+#: patterns/feature-video.php
+msgctxt "Pattern title"
+msgid "Feature Video"
+msgstr ""
+
+#: patterns/feature-video.php:13
+msgid "Build Amazing WordPress website"
+msgstr ""
+
+#: patterns/feature-video.php:17
+msgid "Simple &amp; Elegant&nbsp;Blocks&nbsp;for WordPress"
+msgstr ""
+
+#: patterns/feature-video.php:22
+msgid "Elegant set of WordPress blocks along with templates to help you create the website"
+msgstr ""
+
+#: patterns/feature-video.php:22
+msgid "you always wanted you create the website you always wanted!"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:13
+msgid "Quick Links "
+msgstr ""
+
+#: patterns/footer-default.php:19
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-default.php:23
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer-default.php:27
+msgid "Services"
+msgstr ""
+
+#: patterns/footer-default.php:31
+msgid "Company"
+msgstr ""
+
+#: patterns/footer-default.php:35
+msgid "Our Mission"
+msgstr ""
+
+#: patterns/footer-default.php:39
+msgid "Our Vision"
+msgstr ""
+
+#: patterns/footer-default.php:47
+msgid "Recent News"
+msgstr ""
+
+#: patterns/footer-default.php:57
+#: patterns/header-default.php:74
+msgid "Quick Contact"
+msgstr ""
+
+#: patterns/footer-default.php:68
+#: patterns/header-default.php:29
+msgid "New South Wales, Australia"
+msgstr ""
+
+#: patterns/footer-default.php:78
+msgid "support@gutenify.com"
+msgstr ""
+
+#: patterns/footer-default.php:88
+msgid "123-7894-456"
+msgstr ""
+
+#: patterns/footer-default.php:98
+#: patterns/header-default.php:49
+msgid "10 AM - 5 PM"
+msgstr ""
+
+#: patterns/footer-default.php:107
+msgid "Subscribe Our Newsletter"
+msgstr ""
+
+#: patterns/footer-default.php:112
+msgid "Please install Mailchimp plugin form wordpress plugin directory."
+msgstr ""
+
+#: patterns/footer-default.php:117
+msgid "Subscribe Now"
+msgstr ""
+
+#: patterns/footer-default.php:127
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer-default.php:127
+msgid "Gutenify"
+msgstr ""
+
+#: patterns/footer-default.php:127
+msgid "and"
+msgstr ""
+
+#: patterns/footer-default.php:127
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer-default.php:127
+msgid "WordPress."
+msgstr ""
+
+#: patterns/footer-default.php:132
+msgid "Follow Us :"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php:78
+msgid "987-065-40321"
+msgstr ""
+
+#: patterns/hero-section.php
+msgctxt "Pattern title"
+msgid "Hero Section"
+msgstr ""
+
+#: patterns/hero-section.php:16
+msgid "25 +"
+msgstr ""
+
+#: patterns/hero-section.php:20
+msgid "Years"
+msgstr ""
+
+#: patterns/hero-section.php:25
+msgid "Experience"
+msgstr ""
+
+#: patterns/hero-section.php:36
+msgid "Why Choose Us"
+msgstr ""
+
+#: patterns/hero-section.php:41
+msgid "Architecture Is About Experience, Not Only Visual"
+msgstr ""
+
+#: patterns/hero-section.php:45
+msgid "Studio practice focused on modern design, interiors and landscapes. From our inception in 2007, we have delivered exceptional public and private environments that are stimulating to occupy."
+msgstr ""
+
+#: patterns/hero-section.php:51
+msgid "Explore Services"
+msgstr ""
+
+#: patterns/hero-section.php:65
+#: patterns/hero-section.php:101
+msgid "458"
+msgstr ""
+
+#: patterns/hero-section.php:69
+msgid "Happy Customers"
+msgstr ""
+
+#: patterns/hero-section.php:77
+msgid "145"
+msgstr ""
+
+#: patterns/hero-section.php:81
+msgid "Complete Work"
+msgstr ""
+
+#: patterns/hero-section.php:89
+msgid "586"
+msgstr ""
+
+#: patterns/hero-section.php:93
+msgid "Our Award"
+msgstr ""
+
+#: patterns/hero-section.php:105
+msgid "Company Members"
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home"
+msgstr ""
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:14
+msgid "NEWS"
+msgstr ""
+
+#: patterns/latest-news.php:18
+msgid "From Our Blog Posts"
+msgstr ""
+
+#: patterns/latest-news.php:24
+msgid "View More"
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/primary-sidebar.php:16
+msgid "Archive"
+msgstr ""
+
+#: patterns/primary-sidebar.php:34
+msgid "Categorise"
+msgstr ""
+
+#: patterns/primary-sidebar.php:52
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:70
+msgid "Tags"
+msgstr ""
+
+#: patterns/primary-sidebar.php:88
+msgid "Social Links"
+msgstr ""
+
+#: patterns/project.php
+msgctxt "Pattern title"
+msgid "Project"
+msgstr ""
+
+#: patterns/project.php:13
+msgid "How Can I Help You"
+msgstr ""
+
+#: patterns/project.php:19
+msgid "Ongoing Project"
+msgstr ""
+
+#: patterns/project.php:29
+msgid "Factory Construction"
+msgstr ""
+
+#: patterns/project.php:33
+#: patterns/project.php:82
+#: patterns/project.php:130
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac lorem pretium, laoreet enim at, malesuada elit. Class aptent taciti sociosqu."
+msgstr ""
+
+#: patterns/project.php:39
+#: patterns/project.php:88
+#: patterns/project.php:136
+msgid "Retail"
+msgstr ""
+
+#: patterns/project.php:43
+#: patterns/project.php:92
+#: patterns/project.php:140
+msgid "Education"
+msgstr ""
+
+#: patterns/project.php:47
+#: patterns/project.php:96
+#: patterns/project.php:144
+msgid "Stock Trading"
+msgstr ""
+
+#: patterns/project.php:53
+#: patterns/project.php:102
+#: patterns/project.php:150
+msgid "Industries"
+msgstr ""
+
+#: patterns/project.php:57
+#: patterns/project.php:106
+#: patterns/project.php:154
+msgid "Healthcare"
+msgstr ""
+
+#: patterns/project.php:61
+#: patterns/project.php:110
+#: patterns/project.php:158
+msgid "Technology"
+msgstr ""
+
+#: patterns/project.php:68
+#: patterns/project.php:117
+#: patterns/project.php:164
+msgid "Explore More"
+msgstr ""
+
+#: patterns/project.php:78
+msgid "Office Renovation"
+msgstr ""
+
+#: patterns/project.php:126
+msgid "Apartment Building"
+msgstr ""
+
+#: patterns/service.php
+msgctxt "Pattern title"
+msgid "Service"
+msgstr ""
+
+#: patterns/service.php:12
+#: patterns/showcase.php:13
+msgid "Provide Service"
+msgstr ""
+
+#: patterns/service.php:16
+msgid "Our Key Features"
+msgstr ""
+
+#: patterns/service.php:34
+msgid "Interior Design"
+msgstr ""
+
+#: patterns/service.php:39
+#: patterns/service.php:65
+#: patterns/service.php:91
+#: patterns/service.php:119
+#: patterns/service.php:145
+#: patterns/service.php:171
+msgid "We work closely with clients to gain an understanding of your desires both philosophical and practical."
+msgstr ""
+
+#: patterns/service.php:43
+#: patterns/service.php:69
+#: patterns/service.php:95
+#: patterns/service.php:123
+#: patterns/service.php:149
+#: patterns/service.php:175
+msgid "Know More"
+msgstr ""
+
+#: patterns/service.php:60
+msgid "Design And Planning"
+msgstr ""
+
+#: patterns/service.php:86
+msgid "Architectural"
+msgstr ""
+
+#: patterns/service.php:114
+msgid "Lighting Design"
+msgstr ""
+
+#: patterns/service.php:140
+msgid "Construction"
+msgstr ""
+
+#: patterns/service.php:166
+msgid "Furniture And Decor"
+msgstr ""
+
+#: patterns/showcase.php
+msgctxt "Pattern title"
+msgid "Showcase"
+msgstr ""
+
+#: patterns/showcase.php:17
+msgid "See The Ideas &amp; Visions For Industries!"
+msgstr ""
+
+#: patterns/showcase.php:28
+msgid "Building Renovation"
+msgstr ""
+
+#: patterns/showcase.php:42
+msgid "Architectural Design"
+msgstr ""
+
+#: patterns/showcase.php:54
+msgid "Low cost housing"
+msgstr ""
+
+#: patterns/showcase.php:68
+msgid "Foreman Working"
+msgstr ""
+
+#: patterns/showcase.php:80
+msgid "Green concrete"
+msgstr ""
+
+#: patterns/showcase.php:92
+msgid "View More Projects"
+msgstr ""

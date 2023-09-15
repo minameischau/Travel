@@ -1,0 +1,9 @@
+label.error {
+    color: red;
+}
+input.error {
+    border-color: red !important;
+}
+.your-toggle-button {
+    background-color: black;
+}
